@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  ApollonAssignment
+
+  Created by Poonam on 17/08/21.
+  
+*/
+
+"ErrorMessage" = "";
+
+"CopiedButtonText" = "COPIED!";
+"CopyButton" = "COPY";
+"Placeholder_text" =  "Shorten a link here...";
+"Placeholder_err_text" =  "Please add a link";
+"Shorten_Button_Title" = "SHORTEN IT!";
+
+
+// Table View
+"Header_Title" = "Your Link History";
+
+
+
+

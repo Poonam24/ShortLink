@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Paste your first link into the field to shorten it"; ObjectID = "EVX-yQ-gxH"; */
+"EVX-yQ-gxH.text" = "Paste your first link into the field to shorten it";
+
+/* Class = "UIButton"; normalTitle = "SHORTEN IT!"; ObjectID = "Noa-uo-AD7"; */
+"Noa-uo-AD7.normalTitle" = "SHORTEN IT!";
+
+/* Class = "UILabel"; text = "WelcomeScreen_Label"; ObjectID = "YAX-DH-BEk"; */
+"YAX-DH-BEk.text" = "Let's get started!";
+
+/* Class = "UILabel"; text = "Your Link History"; ObjectID = "nlM-8M-y53"; */
+"nlM-8M-y53.text" = "Your Link History";
+
+/* Class = "UITextField"; placeholder = "Shorten a link here ..."; ObjectID = "obO-Ee-g8X"; */
+"obO-Ee-g8X.placeholder" = "Shorten a link here ...";
