@@ -39,7 +39,7 @@ Link History
 
 With One More Record
 
-![Uploading Screenshot 2021-08-17 at 6.22.06 PM.png…]()
+<img width="1440" alt="Screenshot 2021-08-17 at 6 22 06 PM" src="https://user-images.githubusercontent.com/4199763/129729017-2a8f09a0-4090-4112-a109-c5fe20ce31ef.png">
 
 
 
